@@ -1,3 +1,4 @@
+#added to string and printing the result
 str1 = "Hello"
 str2 = "Dayanand"
 
