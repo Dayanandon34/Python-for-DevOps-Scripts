@@ -1,4 +1,4 @@
-
+# float is nothign but the numbers and making them to use for multiple arithmetic conditoins
 
 num1 = 2.5
 num2 = 3.5
