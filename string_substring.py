@@ -1,4 +1,4 @@
-#The python script is for searching the string is available in sentence or not 
+# ||The python script is for searching the string is available in sentence or not ||
 
 text = "Python is devops" # you can change the sentence add "for" and remove before executing the script.
 substring = "for"
