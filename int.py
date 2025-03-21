@@ -1,6 +1,6 @@
 #integer execution using python scripts
 
-num1 = 10
+num1 = 10 # creating veriable
 num2 = 5
 
 result = num1 + num2     
