@@ -1,4 +1,4 @@
-#integer execution using python scripts
+#Integer execution using python scripts
 
 num1 = 10 # creating veriable
 num2 = 5
