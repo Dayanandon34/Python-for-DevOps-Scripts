@@ -1,4 +1,4 @@
-#added to string and printing the result
+#Added to string and printing the result
 str1 = "Hello" #veriable declartion
 str2 = "Dayanand" #veriable declartion
 
