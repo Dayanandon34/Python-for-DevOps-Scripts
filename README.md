@@ -2,6 +2,6 @@
 
 # Given scripts are successfully executed and modified added errors aswell, try to fix it and contribute
 
-# Practice make skills last longer*
+# Practice make skills last longer**
 
 | python for devops |
