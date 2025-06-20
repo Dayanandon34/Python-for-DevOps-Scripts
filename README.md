@@ -4,4 +4,4 @@
 
 # Practice make skills last longer*
 
-|| python for devops |
+| python for devops |
